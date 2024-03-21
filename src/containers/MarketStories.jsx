@@ -1,6 +1,7 @@
 import marketStories from '@/content/market-stories';
 
 import Image from 'next/image';
+//marketstories
 const MarketStories = ({ className }) => {
   return (
     <section className={`relative flex-grow w-3/12 p-5 ${className}`}>
