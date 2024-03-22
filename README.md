@@ -16,7 +16,7 @@ Go India Stocks - NextJS Frontend
 
 ## How To Use
 
-###### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [yarn](https://yarnpkg.com) installed on your computer).
+###### To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) 
 
 1. Fork this repository and clone the project
 
@@ -33,13 +33,13 @@ Go India Stocks - NextJS Frontend
 3. Install dependencies
 
 ```bash
-  yarn
+  npm
 ```
 
 4. Start the server
 
 ```bash
-  yarn dev
+  npm run dev
 ```
 
 - To change the content, edit `src/content/[section].js`
